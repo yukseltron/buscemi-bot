@@ -1,0 +1,11 @@
+{
+	"name": "buscemi - bot",
+	"version": "1.0 .0",
+	"description": "Steve Buscemi stuff and more",
+	"main": "bot.js",
+	"author": "Hamid Yuksel",
+	"dependencies": {
+		"discord.js": "^11.5.1",
+		"request": "^2.88.0"
+	}
+}
