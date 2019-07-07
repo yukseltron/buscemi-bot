@@ -6,6 +6,7 @@
 	"author": "Hamid Yuksel",
 	"dependencies": {
 		"discord.js": "^11.5.1",
-		"request": "^2.88.0"
+		"request": "^2.88.0",
+		"scrape-youtube": "0.0.4"
 	}
 }
