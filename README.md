@@ -3,14 +3,18 @@ A discord bot.
 Roleplays as famous actor Steve Buscemi.
 
 Features:
-Get a random film starring Steve
-
 ```javascript
 !buscemi film
 ```
+Get info on a random Buscemi film
 
-Say hi
 
 ```javascript
 !buscemi hi
 ```
+Buscemi-bot says hi right back
+
+```javascript
+!buscemi video
+```
+Get a random youtube video featuring Steve Buscemi
