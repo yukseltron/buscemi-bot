@@ -1,6 +1,7 @@
 # buscemi-bot
-A discord bot.
-Roleplays as famous actor Steve Buscemi.
+A discord bot made with [discord.js](https://discord.js.org/#/).
+Roleplays and gives info on famous actor Steve Buscemi.
+Good for fans of Steve Buscemi.
 
 Features:
 ```javascript
@@ -18,3 +19,8 @@ Buscemi-bot says hi right back
 !buscemi video
 ```
 Get a random youtube video featuring Steve Buscemi
+
+```javascript
+!buscemi help
+```
+Lists the commands available to Buscemi Bot
